@@ -18,7 +18,7 @@ canvas{
     animation-duration: 4s;
     animation-iteration-count: infinite;
     border-radius: 15px;
-    border: 10px aqua ridge;
+    border: 10px red ridge;
     margin-top: 150px;
 }
 
